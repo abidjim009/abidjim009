@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abid Hasan</h1>
-<h3 align="center">A passionate learner exploring Networking, Programming, and Web Development</h3>
+<h3 align="center"> future data scientist, try to give my best for learning data science  h3>
 
 ---
 
