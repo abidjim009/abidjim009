@@ -1,7 +1,7 @@
 html
 <h1 align="center">Hi 👋, I'm Md. Abid Hasan</h1>
 <h3 align="center">Aspiring Data Scientist & Software Engineering Student 📈</h3>
-<p align="center">Machine Learning • Deep Learning • AI • RAG & LLM</p>
+<p align="center">Machine Learning • Deep Learning • Artificial Intelligence • Neural Network • NNP • RAG • LLM  </p>
 
 ---
 
